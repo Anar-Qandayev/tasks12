@@ -1,0 +1,16 @@
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.AssemblyInfo.cs
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.exe
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.deps.json
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.runtimeconfig.json
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.dll
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\ref\Isletter,.dll
+C:\Users\ibm\source\repos\Isletter,\Isletter,\bin\Debug\net5.0\Isletter,.pdb
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.dll
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\ref\Isletter,.dll
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.pdb
+C:\Users\ibm\source\repos\Isletter,\Isletter,\obj\Debug\net5.0\Isletter,.genruntimeconfig.cache
